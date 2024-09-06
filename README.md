@@ -54,7 +54,7 @@ Here are some of my key projects:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cyberfantics&theme=radical)](https://git.io/streak-stats)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=cyberfantics&theme=react-dark)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=cyberfantics&theme=react-dark&bg_color=20232a)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 ---
 
