@@ -50,17 +50,11 @@ Here are some of my key projects:
 
 ## 📈 GitHub Stats:
 
-![Cyberfantics's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyberfantics&show_icons=true&theme=radical)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cyberfantics&theme=radical)](https://git.io/streak-stats)
+![Cyberfantics's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyberfantics&show_icons=true&theme=radical) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cyberfantics&theme=radical)](https://git.io/streak-stats)
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=cyberfantics&theme=react-dark&bg_color=20232a)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cyberfantics&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-![Contributions per Repository](https://github-contributor-stats.vercel.app/api?username=cyberfantics&theme=radical)
-
-[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=cyberfantics&theme=radical)](https://wakatime.com)
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=cyberfantics&theme=radical&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
