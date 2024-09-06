@@ -1,6 +1,6 @@
 ![Welcome Banner](./assets/banner.jpg)
 
-# Hi, I'm Syed Mansoor ul Hassan Bukhari ([@mansoorbukhari](https://github.com/cyberfantics))! 👋
+# Hi, I'm [Syed Mansoor ul Hassan Bukhari](https://github.com/cyberfantics)! 👋
 
 I’m passionate about **Artificial Intelligence** and **Cyber Security**. Currently, I’m diving deep into the world of AI and its intersections with cybersecurity, constantly learning and applying cutting-edge techniques to real-world problems.
 
@@ -24,9 +24,7 @@ I’m passionate about **Artificial Intelligence** and **Cyber Security**. Curre
 ## 💼 Projects & Contributions:
 Here are some of the projects I’m working on:
 1. **[Artificial Intelligence Course Repository](https://github.com/cyberfantics/AI-Course)** - My complete journey through AI with lecture files, notes, and practice tasks.
-2. **[Amazon Book Scraper](https://github.com/cyberfantics/amazon-book-scraper)** - A Python-based scraper for fetching book data from Amazon, including titles, prices, and reviews.
-3. **[Photo Album Generator](https://github.com/cyberfantics/photo-album)** - A GUI-based tool for creating a PDF photo album from images in a folder.
-4. **[Cybersecurity Specialization Certificates](https://github.com/cyberfantics/cybersecurity-certificates)** - Showcasing my completion of multiple cybersecurity and digital forensics certifications.
+2. **[Cybersecurity Specialization Certificates](https://github.com/cyberfantics/cybersecurity-certificates)** - Showcasing my completion of multiple cybersecurity and digital forensics certifications.
 
 ---
 
