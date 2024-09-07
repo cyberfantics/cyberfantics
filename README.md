@@ -29,7 +29,7 @@ I’m a passionate developer specializing in **Artificial Intelligence** and **C
 ## 📥 Download My CV:
 
 <div align="center">
-  <a href="./assets/CV.pdf" download>
+  <a href="./assets/CV.pdf" download="CV.pdf">
     <img src="https://img.shields.io/badge/Download%20CV-Click%20Here-brightgreen?style=for-the-badge&logo=github">
   </a>
 </div>
