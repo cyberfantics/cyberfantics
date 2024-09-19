@@ -82,6 +82,12 @@ Here are some of my key projects:
   <a href="https://wa.me/923408100868">
     <img src="https://img.shields.io/badge/WhatsApp-Chat%20with%20me-25D366?style=for-the-badge&logo=whatsapp">
   </a>
+  <a href="https://www.hackerrank.com/profile/salfihacker">
+    <img src="https://img.shields.io/badge/HackerRank-Check%20my%20Profile-brightgreen?style=for-the-badge&logo=hackerrank">
+  </a>
+  <a href="https://leetcode.com/u/salfihacker/">
+    <img src="https://img.shields.io/badge/LeetCode-Check%20my%20Profile-yellow?style=for-the-badge&logo=leetcode">
+  </a>
 </div>
 
 
