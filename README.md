@@ -9,21 +9,44 @@ I’m a passionate developer specializing in **Artificial Intelligence** and **C
 ---
 
 ## 🌱 Current Focus:
-- **Artificial Intelligence**: Working on complex AI models to drive automation and predictive insights.
-- **Cybersecurity**: Researching and developing AI-driven security solutions.
-- **Data Science**: Analyzing large datasets to uncover trends and actionable insights.
+- **Artificial Intelligence**: Building AI models for automation and predictive insights.
+- **Cybersecurity**: Creating AI-driven security solutions.
+- **Data Science**: Uncovering trends and insights from large datasets.
 
 ---
 
 ## 📜 Certifications & Achievements:
 - **Infosec Python for Cybersecurity Specialization**  
-  - Python for Active Defense, Credential Access, Digital Forensics.
+  - Topics: Active Defense, Credential Access, Digital Forensics.
   
 - **EC-Council Cybersecurity Attack & Defense Fundamentals Specialization**  
-  - Covered Ethical Hacking Essentials, Network Defense, and Digital Forensics.
+  - Covered Ethical Hacking, Network Defense, and Digital Forensics.
   
 - **Capture The Flag (CTF) Participant**  
-  - Solving challenges related to cryptography, forensics, reverse engineering, and web exploitation.
+  - Solved cryptography, forensics, reverse engineering, and web exploitation challenges.
+
+---
+
+## 💼 Featured Projects & Contributions:
+
+### 🔒 **Cybersecurity Projects**:
+1. **[Infosec Python for Cybersecurity Specialization](https://github.com/cyberfantics/python-for-cybersecurity)**  
+   - Developed tools for **Command-and-Control**, **Exfiltration**, and **Credential Access**.
+
+2. **[VirusTotal File Scanner](https://github.com/cyberfantics/virus-total-scanner)**  
+   - Flask application that integrates with **VirusTotal API** to scan files and retrieve reports.
+
+3. **[picoCTF Challenges](https://github.com/cyberfantics/picoCTF-challenges)**  
+   - Solutions to challenges from the picoCTF competition.
+
+---
+
+## 🔧 Tech Skills:
+- **Programming Languages**: Python, JavaScript, C++
+- **Tools**: Flask, Git, BeautifulSoup, Seaborn, Selenium
+- **Cybersecurity Tools**: Metasploit, Wireshark, Burp Suite, SQLMap
+- **Databases**: MySQL
+- **AI/ML Frameworks**: TensorFlow, Keras, Scikit-learn
 
 ---
 
@@ -37,24 +60,10 @@ I’m a passionate developer specializing in **Artificial Intelligence** and **C
 
 ---
 
-## 💼 Projects & Contributions:
-Here are some of my key projects:
-
-### 🔒 **Cybersecurity Projects**:
-1. **[Infosec Python for Cybersecurity Specialization](https://github.com/cyberfantics/python-for-cybersecurity)**  
-   - Built tools for **Command-and-Control**, **Exfiltration**, and **Credential Access**.
-
-2. **[VirusTotal File Scanner](https://github.com/cyberfantics/virus-total-scanner)**  
-   - A Flask-based application that integrates with the **VirusTotal API** to scan files and retrieve reports.
-
-3. **[picoCTF Challenges](https://github.com/cyberfantics/picoCTF-challenges)**  
-   - A collection of challenges and solutions from the picoCTF competition.
-
----
-
 ## 📈 GitHub Stats:
 
-![Cyberfantics's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyberfantics&show_icons=true&theme=radical) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cyberfantics&theme=radical)](https://git.io/streak-stats)
+![Cyberfantics's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyberfantics&show_icons=true&theme=radical) 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cyberfantics&theme=radical)](https://git.io/streak-stats)
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=cyberfantics&theme=react-dark&bg_color=20232a)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
@@ -64,7 +73,15 @@ Here are some of my key projects:
 
 ---
 
-## 📫 Get in Touch:
+## 🛠 Recent Workflows:
+- 🌐 Scraping Book Info from Amazon using BeautifulSoup
+- 📊 Visualizing Data Trends with Seaborn
+- 🛡️ Flask-based Web App for VirusTotal API Integration
+- 🔐 Developing AI-driven Cybersecurity Models
+
+---
+
+## 🤝 Get in Touch:
 
 <div align="center">
   <a href="https://www.linkedin.com/in/mansoor-bukhari-77549a264/">
@@ -92,7 +109,6 @@ Here are some of my key projects:
     <img src="https://img.shields.io/badge/Instagram-Follow%20me%20on%20Instagram-pink?style=for-the-badge&logo=instagram">
   </a>
 </div>
-
 
 ---
 
