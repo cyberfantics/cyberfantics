@@ -69,6 +69,12 @@ Here are some of my key projects:
   <a href="mailto:digital.creator380@gmail.com">
     <img src="https://img.shields.io/badge/Email-Send%20Me%20an%20Email-red?style=for-the-badge&logo=gmail">
   </a>
+  <a href="https://www.kaggle.com/mansoorbukhari">
+    <img src="https://img.shields.io/badge/Kaggle-Check%20my%20Profile-green?style=for-the-badge&logo=kaggle">
+  </a>
+  <a href="https://www.facebook.com/mansoorbukhari860?mibextid=ZbWKwL">
+    <img src="https://img.shields.io/badge/Facebook-Follow%20me%20on%20Facebook-3b5998?style=for-the-badge&logo=facebook">
+  </a>
 </div>
 
 ---
