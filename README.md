@@ -2,6 +2,7 @@
 ![Welcome Banner](./assets/banner.png)
 
 # Hi, I'm [Syed Mansoor ul Hassan Bukhari](https://github.com/cyberfantics)! 👋
+![Profile Views]((https://komarev.com/ghpvc/?username=cyberfantics&abbreviated=true&base=90000&style=for-the-badge))
 
 I’m a passionate developer specializing in **Artificial Intelligence** and **Cyber Security**. I enjoy leveraging cutting-edge technologies to solve complex problems and am constantly looking to expand my knowledge and skills in AI, cybersecurity, and machine learning.
 
