@@ -88,6 +88,9 @@ Here are some of my key projects:
   <a href="https://leetcode.com/u/salfihacker/">
     <img src="https://img.shields.io/badge/LeetCode-Check%20my%20Profile-yellow?style=for-the-badge&logo=leetcode">
   </a>
+  <a href="https://instagram.com/cyberfantics">
+    <img src="https://img.shields.io/badge/Instagram-Follow%20me%20on%20Instagram-pink?style=for-the-badge&logo=instagram">
+  </a>
 </div>
 
 
