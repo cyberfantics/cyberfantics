@@ -46,6 +46,9 @@ Here are some of my key projects:
 2. **[VirusTotal File Scanner](https://github.com/cyberfantics/virus-total-scanner)**  
    - A Flask-based application that integrates with the **VirusTotal API** to scan files and retrieve reports.
 
+3. **[picoCTF Challenges](https://github.com/cyberfantics/picoCTF-challenges)**  
+   - A collection of challenges and solutions from the picoCTF competition.
+
 ---
 
 ## 📈 GitHub Stats:
@@ -75,7 +78,11 @@ Here are some of my key projects:
   <a href="https://www.facebook.com/mansoorbukhari860?mibextid=ZbWKwL">
     <img src="https://img.shields.io/badge/Facebook-Follow%20me%20on%20Facebook-3b5998?style=for-the-badge&logo=facebook">
   </a>
+  <a href="https://wa.me/923408100868">
+    <img src="https://img.shields.io/badge/WhatsApp-Chat%20with%20me-25D366?style=for-the-badge&logo=whatsapp">
+  </a>
 </div>
+
 
 ---
 
