@@ -2,9 +2,7 @@
 ![Welcome Banner](./assets/banner.png)
 
 <!-- Typing SVG for Syed -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=500&size=25&duration=4000&pause=500&color=FF8000&lines=%E2%9C%A8Hey%2C+I'm+Syed+Mansoor+ul+Hassan+Bukhari%E2%9C%A8;%E2%9C%A8Passionate+Developer+in+AI%2C+Cyber+Security+%26+Machine+Learning.%E2%9C%A8;%E2%9C%A8Certified+in+AI%2C+Machine+Learning+%26+Deep+Learning+from+NAVTTC.%E2%9C%A8;%E2%9C%A8Creating+Innovative+Solutions+to+Real-World+Problems%E2%9C%A8;%E2%9C%A8Let's+Connect+and+Collaborate!)](https://git.io/typing-svg)
-
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=500&size=25&duration=4000&pause=2000&color=FF8000&lines=%E2%9C%A8Hey%2C+I'm+Syed+Mansoor+ul+Hassan+Bukhari%E2%9C%A8;%E2%9C%A8Passionate+Developer+in+AI%2C+Cyber+Security+%26+Machine+Learning.%E2%9C%A8;%E2%9C%A8Certified+in+AI%2C+Machine+Learning+%26+Deep+Learning+from+NAVTTC.%E2%9C%A8;%E2%9C%A8Creating+Innovative+Solutions+to+Real-World+Problems%E2%9C%A8;%E2%9C%A8Let's+Connect+and+Collaborate!)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=cyberfantics&abbreviated=true&base=1957800&style=for-the-badge)
 
