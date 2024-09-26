@@ -1,7 +1,8 @@
 <!-- Banner Image -->
 ![Welcome Banner](./assets/banner.png)
 
-# Hi, I'm [Syed Mansoor ul Hassan Bukhari](https://github.com/cyberfantics)! 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=500&size=25&duration=4000&pause=500&color=FF8000&center=false&vCenter=true&width=700&height=55&lines=Hey%2C+I'm+Syed+Mansoor+ul+Hassan+Bukhari+%F0%9F%91%8B;Specializing+in+AI+and+Cybersecurity;Solving+Complex+Problems+with+Code!)](https://git.io/typing-svg)
+
 ![Profile Views](https://komarev.com/ghpvc/?username=cyberfantics&abbreviated=true&base=1957800&style=for-the-badge)
 
 I’m a passionate developer specializing in **Artificial Intelligence** and **Cyber Security**. I enjoy leveraging cutting-edge technologies to solve complex problems and am constantly looking to expand my knowledge and skills in AI, cybersecurity, and machine learning.
