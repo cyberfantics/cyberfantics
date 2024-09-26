@@ -2,16 +2,18 @@
 ![Welcome Banner](./assets/banner.png)
 
 <!-- Typing SVG for Syed and GIF -->
-<div style="display: flex; align-items: center; justify-content: center;">
-  <div style="flex: 1;">
-    [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=500&size=25&duration=4000&pause=500&color=32CD32&center=false&vCenter=true&width=700&height=55&lines=👋+Hey%2C+I'm+Syed+Mansoor+ul+Hassan+Bukhari;💻+Passionate+Developer+in;🧠+AI%2C+Cybersecurity+%26+Machine+Learning;🎓+Certified+in+AI%2C+Machine+Learning+%26+Deep+Learning;🏆+from+NAVTTC;🔧+Creating+Innovative+Solutions;🌍+to+Real-World+Problems;🤝+Let's+Connect+and+Collaborate+!)](https://git.io/typing-svg)
-  </div>
-  <div style="flex: 1; display: flex; justify-content: center;">
-    <div style="width:100%;height:0;padding-bottom:96%;position:relative;">
-      <iframe src="https://giphy.com/embed/hv13U4h8Y7hEdCQ0Ik" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-    </div>
-  </div>
-</div>
+<!-- Typing SVG and GIF Side by Side -->
+<table>
+  <tr>
+    <td>
+      [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=500&size=25&duration=4000&pause=500&color=32CD32&center=false&vCenter=true&width=700&height=55&lines=👋+Hey%2C+I'm+Syed+Mansoor+ul+Hassan+Bukhari;💻+Passionate+Developer+in;🧠+AI%2C+Cybersecurity+%26+Machine+Learning;🎓+Certified+in+AI%2C+Machine+Learning+%26+Deep+Learning;🏆+from+NAVTTC;🔧+Creating+Innovative+Solutions;🌍+to+Real-World+Problems;🤝+Let's+Connect+and+Collaborate+!)](https://git.io/typing-svg)
+    </td>
+    <td>
+      <iframe src="https://giphy.com/embed/hv13U4h8Y7hEdCQ0Ik" width="300" height="300" frameBorder="0" allowFullScreen></iframe>
+    </td>
+  </tr>
+</table>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=cyberfantics&abbreviated=true&base=1957800&style=for-the-badge)
 
 I’m a passionate developer specializing in **Artificial Intelligence** and **Cyber Security**. I enjoy leveraging cutting-edge technologies to solve complex problems and am constantly looking to expand my knowledge and skills in AI, cybersecurity, and machine learning.
