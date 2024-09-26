@@ -1,11 +1,14 @@
 <!-- Banner Image -->
 ![Welcome Banner](./assets/banner.png)
 
-<!-- GIF Image -->
-<img align="center" alt="coding" width="300" src="https://media.giphy.com/media/hv13U4h8Y7hEdCQ0Ik/giphy.gif" style="display: block; margin: 0 auto;">
+<div style="display: flex; align-items: center; justify-content: center;">
 
-<!-- Typing SVG -->
-<img align="right" alt="Typing" width="700" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=500&size=25&duration=4000&pause=500&color=32CD32&center=false&vCenter=true&width=700&height=55&lines=👋+Hey%2C+I'm+Syed+Mansoor+ul+Hassan+Bukhari;💻+Passionate+Developer+in;🧠+AI%2C+Cybersecurity+%26+Machine+Learning;🎓+Certified+in+AI%2C+Machine+Learning+%26+Deep+Learning;🏆+from+NAVTTC;🔧+Creating+Innovative+Solutions;🌍+to+Real-World+Problems;🤝+Let's+Connect+and+Collaborate+!">
+    <!-- GIF Image -->
+    <img alt="coding" width="300" src="https://media.giphy.com/media/hv13U4h8Y7hEdCQ0Ik/giphy.gif" style="margin-right: 20px;">
+
+    <!-- Typing SVG -->
+    <img alt="Typing" width="700" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=500&size=25&duration=4000&pause=500&color=32CD32&center=false&vCenter=true&width=700&height=55&lines=👋+Hey%2C+I'm+Syed+Mansoor+ul+Hassan+Bukhari;💻+Passionate+Developer+in;🧠+AI%2C+Cybersecurity+%26+Machine+Learning;🎓+Certified+in+AI%2C+Machine+Learning+%26+Deep+Learning;🏆+from+NAVTTC;🔧+Creating+Innovative+Solutions;🌍+to+Real-World+Problems;🤝+Let's+Connect+and+Collaborate+!">
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyberfantics&abbreviated=true&base=1957800&style=for-the-badge" alt="profile views" /> </p>
 
