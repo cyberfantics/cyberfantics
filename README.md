@@ -1,39 +1,7 @@
 <!-- Banner Image -->
 ![Welcome Banner](./assets/banner.png)
 
-# Hi, I'm 
-<div style="font-size: 2em; display: inline-block; animation: fadeIn 1s forwards; opacity: 0;">
-  <span style="animation-delay: 0.1s;">S</span>
-  <span style="animation-delay: 0.2s;">y</span>
-  <span style="animation-delay: 0.3s;">e</span>
-  <span style="animation-delay: 0.4s;">d</span>
-  <span style="animation-delay: 0.5s;"> </span>
-  <span style="animation-delay: 0.6s;">M</span>
-  <span style="animation-delay: 0.7s;">a</span>
-  <span style="animation-delay: 0.8s;">n</span>
-  <span style="animation-delay: 0.9s;">s</span>
-  <span style="animation-delay: 1.0s;">o</span>
-  <span style="animation-delay: 1.1s;">o</span>
-  <span style="animation-delay: 1.2s;">r</span>
-  <span style="animation-delay: 1.3s;"> </span>
-  <span style="animation-delay: 1.4s;">u</span>
-  <span style="animation-delay: 1.5s;">l</span>
-  <span style="animation-delay: 1.6s;"> </span>
-  <span style="animation-delay: 1.7s;">H</span>
-  <span style="animation-delay: 1.8s;">a</span>
-  <span style="animation-delay: 1.9s;">s</span>
-  <span style="animation-delay: 2.0s;">s</span>
-  <span style="animation-delay: 2.1s;">a</span>
-  <span style="animation-delay: 2.2s;">n</span>
-  <span style="animation-delay: 2.3s;"> </span>
-  <span style="animation-delay: 2.4s;">B</span>
-  <span style="animation-delay: 2.5s;">u</span>
-  <span style="animation-delay: 2.6s;">k</span>
-  <span style="animation-delay: 2.7s;">h</span>
-  <span style="animation-delay: 2.8s;">a</span>
-  <span style="animation-delay: 2.9s;">r</span>
-  <span style="animation-delay: 3.0s;">i</span>
-</div> 👋
+# Hi, I'm [Syed Mansoor ul Hassan Bukhari](https://github.com/cyberfantics)! 👋
 ![Profile Views](https://komarev.com/ghpvc/?username=cyberfantics&abbreviated=true&base=1957800&style=for-the-badge)
 
 I’m a passionate developer specializing in **Artificial Intelligence** and **Cyber Security**. I enjoy leveraging cutting-edge technologies to solve complex problems and am constantly looking to expand my knowledge and skills in AI, cybersecurity, and machine learning.
@@ -146,11 +114,3 @@ I’m a passionate developer specializing in **Artificial Intelligence** and **C
 
 😄 **Pronouns**: He/Him  
 ⚡ **Fun Fact**: I have a knack for solving **challenging CTF puzzles**!
-
-<style>
-@keyframes fadeIn {
-  to {
-    opacity: 1;
-  }
-}
-</style>
