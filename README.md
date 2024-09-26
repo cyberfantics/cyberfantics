@@ -1,7 +1,9 @@
 <!-- Banner Image -->
 ![Welcome Banner](./assets/banner.png)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=500&size=25&duration=4000&pause=500&color=FF8000&center=false&vCenter=true&width=700&height=55&lines=Hey%2C+I'm+Syed+Mansoor+ul+Hassan+Bukhari+%F0%9F%91%8B;Specializing+in+AI+and+Cybersecurity;Solving+Complex+Problems+with+Code!)](https://git.io/typing-svg)
+<!-- Typing SVG for Syed -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=600&size=28&duration=3500&pause=700&color=FF8000&center=false&vCenter=true&multiline=true&width=900&height=150&lines=Hey%2C+I'm+Syed+Mansoor+ul+Hassan+Bukhari+%F0%9F%91%8B;GitHub+Profile+Views%3A+![Profile+Views](https://komarev.com/ghpvc/?username=cyberfantics&color=ff8000&style=flat);Passionate+Developer+%26+Problem+Solver;Artificial+Intelligence+%7C+Cybersecurity+Specialist;Creating+AI-driven+Security+Solutions+%F0%9F%94%92;Contributing+to+Open-Source+%F0%9F%91%A7;Certified+in+Python+for+Cybersecurity+%7C+Forensics;Skilled+in+Python%2C+Flask%2C+Selenium%2C+Wireshark)](https://git.io/typing-svg)
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=cyberfantics&abbreviated=true&base=1957800&style=for-the-badge)
 
