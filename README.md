@@ -64,19 +64,14 @@ I’m a passionate developer specializing in **Artificial Intelligence** and **C
 
 ## 📈 GitHub Stats:
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=cyberfantics&show_icons=true&theme=radical" alt="Cyberfantics's GitHub stats" width="400"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=cyberfantics&theme=radical" alt="GitHub Streak" width="400"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=cyberfantics&theme=react-dark&bg_color=20232a" alt="GitHub Activity Graph" width="400"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyberfantics&layout=compact&theme=radical" alt="Top Languages" width="400"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=cyberfantics&theme=radical&no-frame=true&column=7" alt="Trophies" width="400"/>
+</p>
 
-    <img src="https://github-readme-stats.vercel.app/api?username=cyberfantics&show_icons=true&theme=radical" alt="Cyberfantics's GitHub stats" style="width: 400px; height: auto; margin: 10px;">
-    
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=cyberfantics&theme=radical" alt="GitHub Streak" style="width: 400px; height: auto; margin: 10px;">
-
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=cyberfantics&theme=react-dark&bg_color=20232a" alt="GitHub Activity Graph" style="width: 400px; height: auto; margin: 10px;">
-    
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyberfantics&layout=compact&theme=radical" alt="Top Languages" style="width: 400px; height: auto; margin: 10px;">
-    
-    <img src="https://github-profile-trophy.vercel.app/?username=cyberfantics&theme=radical&no-frame=true&column=7" alt="Trophies" style="width: 400px; height: auto; margin: 10px;">
-
-</div>
 
 ---
 
