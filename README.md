@@ -7,7 +7,7 @@
 
 <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/hv13U4h8Y7hEdCQ0Ik/giphy.gif">
 
-![Profile Views](https://komarev.com/ghpvc/?username=cyberfantics&abbreviated=true&base=1957800&style=for-the-badge)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cyberfantics&abbreviated=true&base=1957800&style=for-the-badge" alt="profile views" /> </p>
 
 I’m a passionate developer specializing in **Artificial Intelligence** and **Cyber Security**. I enjoy leveraging cutting-edge technologies to solve complex problems and am constantly looking to expand my knowledge and skills in AI, cybersecurity, and machine learning.
 
