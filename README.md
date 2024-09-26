@@ -2,17 +2,10 @@
 ![Welcome Banner](./assets/banner.png)
 
 <!-- Typing SVG and GIF Side by Side -->
-<table>
-  <tr>
-    <td>
-      [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=500&size=25&duration=4000&pause=500&color=32CD32&center=false&vCenter=true&width=700&height=55&lines=👋+Hey%2C+I'm+Syed+Mansoor+ul+Hassan+Bukhari;💻+Passionate+Developer+in;🧠+AI%2C+Cybersecurity+%26+Machine+Learning;🎓+Certified+in+AI%2C+Machine+Learning+%26+Deep+Learning;🏆+from+NAVTTC;🔧+Creating+Innovative+Solutions;🌍+to+Real-World+Problems;🤝+Let's+Connect+and+Collaborate+!)](https://git.io/typing-svg)
-    </td>
-    <td>
-      <img src="https://media.giphy.com/media/hv13U4h8Y7hEdCQ0Ik/giphy.gif" width="300" height="300">
-    </td>
-  </tr>
-</table>
+<!-- Typing SVG -->
+<img align="left" alt="Typing" width="700" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=500&size=25&duration=4000&pause=500&color=32CD32&center=false&vCenter=true&width=700&height=55&lines=👋+Hey%2C+I'm+Syed+Mansoor+ul+Hassan+Bukhari;💻+Passionate+Developer+in;🧠+AI%2C+Cybersecurity+%26+Machine+Learning;🎓+Certified+in+AI%2C+Machine+Learning+%26+Deep+Learning;🏆+from+NAVTTC;🔧+Creating+Innovative+Solutions;🌍+to+Real-World+Problems;🤝+Let's+Connect+and+Collaborate+!">
 
+<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/hv13U4h8Y7hEdCQ0Ik/giphy.gif">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=cyberfantics&abbreviated=true&base=1957800&style=for-the-badge)
 
