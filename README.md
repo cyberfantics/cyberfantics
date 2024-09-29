@@ -135,3 +135,5 @@
 
 😄 **Pronouns**: He/Him  
 ⚡ **Fun Fact**: I have a knack for solving **challenging CTF puzzles**!
+
+<img src="https://github.com/cyberfantics/cyberfantics/blob/cyberfantics/assets/2nd%20arrow.gif"/>
