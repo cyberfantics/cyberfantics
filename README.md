@@ -4,13 +4,16 @@
 | ![Typing](https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=500&size=25&duration=4000&pause=500&color=32CD32&center=false&vCenter=true&width=700&height=55&lines=👋+Hey%2C+I'm+Syed+Mansoor+ul+Hassan+Bukhari;💻+Passionate+Developer+in;🧠+AI%2C+Cybersecurity+%26+Machine+Learning;🎓+Certified+in+AI%2C+Machine+Learning+%26+Deep+Learning;🏆+from+NAVTTC;🔧+Creating+Innovative+Solutions;🌍+to+Real-World+Problems;🤝+Let's+Connect+and+Collaborate+!) | ![coding](https://media.giphy.com/media/hv13U4h8Y7hEdCQ0Ik/giphy.gif) |
 |:--:|:--:|
 
+
 <img src="https://github.com/cyberfantics/cyberfantics/assets/2nd%20arrow.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyberfantics&abbreviated=true&base=1957800&style=for-the-badge" alt="profile views" /> </p>
 
+
 <img src="https://github.com/cyberfantics/cyberfantics/assets/2nd%20arrow.gif">
 
 <p align="left">I’m a passionate developer specializing in <strong>Artificial Intelligence</strong> and <strong>Cyber Security</strong>. I enjoy leveraging cutting-edge technologies to solve complex problems and am constantly looking to expand my knowledge and skills in AI, cybersecurity, and machine learning.</p>
+
 
 <img src="https://github.com/cyberfantics/cyberfantics/assets/2nd%20arrow.gif">
 
@@ -18,6 +21,7 @@
 - **Artificial Intelligence**: Building AI models for automation and predictive insights.
 - **Cybersecurity**: Creating AI-driven security solutions.
 - **Data Science**: Uncovering trends and insights from large datasets.
+
 
 <img src="https://github.com/cyberfantics/cyberfantics/assets/2nd%20arrow.gif">
 
@@ -30,6 +34,8 @@
   
 - **Capture The Flag (CTF) Participant**  
   - Solved cryptography, forensics, reverse engineering, and web exploitation challenges.
+
+
 
 <img src="https://github.com/cyberfantics/cyberfantics/assets/2nd%20arrow.gif">
 
@@ -45,6 +51,8 @@
 3. **[picoCTF Challenges](https://github.com/cyberfantics/picoCTF-challenges)**  
    - Solutions to challenges from the picoCTF competition.
 
+
+
 <img src="https://github.com/cyberfantics/cyberfantics/assets/2nd%20arrow.gif">
 
 ## 🔧 Tech Skills:
@@ -53,6 +61,8 @@
 - **Cybersecurity Tools**: Metasploit, Wireshark, Burp Suite, SQLMap
 - **Databases**: MySQL
 - **AI/ML Frameworks**: TensorFlow, Keras, Scikit-learn
+
+
 
 <img src="https://github.com/cyberfantics/cyberfantics/assets/2nd%20arrow.gif">
 
@@ -63,6 +73,8 @@
     <img src="https://img.shields.io/badge/Download%20CV-Click%20Here-brightgreen?style=for-the-badge&logo=github">
   </a>
 </div>
+
+
 
 <img src="https://github.com/cyberfantics/cyberfantics/assets/2nd%20arrow.gif">
 
