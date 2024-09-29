@@ -8,14 +8,14 @@
 
 <p align="left">I’m a passionate developer specializing in <strong>Artificial Intelligence</strong> and <strong>Cyber Security</strong>. I enjoy leveraging cutting-edge technologies to solve complex problems and am constantly looking to expand my knowledge and skills in AI, cybersecurity, and machine learning.</p>
 
----
+<img src="https://github.com/cyberfantics/cyberfantics/assets/2nd%20arrow.gif">
 
 ## 🌱 Current Focus:
 - **Artificial Intelligence**: Building AI models for automation and predictive insights.
 - **Cybersecurity**: Creating AI-driven security solutions.
 - **Data Science**: Uncovering trends and insights from large datasets.
 
----
+<img src="https://github.com/cyberfantics/cyberfantics/assets/2nd%20arrow.gif">
 
 ## 📜 Certifications & Achievements:
 - **Infosec Python for Cybersecurity Specialization**  
@@ -27,7 +27,7 @@
 - **Capture The Flag (CTF) Participant**  
   - Solved cryptography, forensics, reverse engineering, and web exploitation challenges.
 
----
+<img src="https://github.com/cyberfantics/cyberfantics/assets/2nd%20arrow.gif">
 
 ## 💼 Featured Projects & Contributions:
 
@@ -41,7 +41,7 @@
 3. **[picoCTF Challenges](https://github.com/cyberfantics/picoCTF-challenges)**  
    - Solutions to challenges from the picoCTF competition.
 
----
+<img src="https://github.com/cyberfantics/cyberfantics/assets/2nd%20arrow.gif">
 
 ## 🔧 Tech Skills:
 - **Programming Languages**: Python, JavaScript, C++
@@ -50,7 +50,7 @@
 - **Databases**: MySQL
 - **AI/ML Frameworks**: TensorFlow, Keras, Scikit-learn
 
----
+<img src="https://github.com/cyberfantics/cyberfantics/assets/2nd%20arrow.gif">
 
 ## 📥 Download My CV:
 
@@ -60,7 +60,7 @@
   </a>
 </div>
 
----
+<img src="https://github.com/cyberfantics/cyberfantics/assets/2nd%20arrow.gif">
 
 ## 📊 GitHub Stats
 
@@ -69,13 +69,24 @@
     <img width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=cyberfantics&count_private=true&show_icons=true&theme=radical&border_radius=10&background=1F2937&icon_color=3B82F6&title_color=10B981&text_color=9CA3AF" alt="c2-tlhah stats"/>
 </div>
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=cyberfantics&theme=react-dark&bg_color=20232a)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+<img src="https://github.com/c2-tlhah/c2-tlhah/blob/main/2nd%20arrow.gif">
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cyberfantics&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+## 🛠️ Contribution Activity
+
+<div align="center">
+    <img width="1000" height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cyberfantics&theme=vue&background=1F2937" alt="Contribution Activity"/>
+    <br/>
+    <img width="400" height="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=cyberfantics&show_icons=true&locale=en&layout=compact&theme=radical&border_radius=10&background=1F2937&title_color=10B981&text_color=9CA3AF" alt="Top Languages"/>
+</div>
+
+
+<img src="https://github.com/c2-tlhah/c2-tlhah/blob/main/2nd%20arrow.gif">
+
+## 🏆 Trophies
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=cyberfantics&theme=radical&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
----
+<img src="https://github.com/cyberfantics/cyberfantics/assets/2nd%20arrow.gif">
 
 ## 🛠 Recent Workflows:
 - 🌐 Scraping Book Info from Amazon using BeautifulSoup
@@ -83,7 +94,7 @@
 - 🛡️ Flask-based Web App for VirusTotal API Integration
 - 🔐 Developing AI-driven Cybersecurity Models
 
----
+<img src="https://github.com/cyberfantics/cyberfantics/assets/2nd%20arrow.gif">
 
 ## 🤝 Get in Touch:
 
@@ -114,7 +125,7 @@
   </a>
 </div>
 
----
+<img src="https://github.com/cyberfantics/cyberfantics/assets/2nd%20arrow.gif">
 
 😄 **Pronouns**: He/Him  
 ⚡ **Fun Fact**: I have a knack for solving **challenging CTF puzzles**!
