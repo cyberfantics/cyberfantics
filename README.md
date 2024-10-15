@@ -131,20 +131,6 @@
   </a>
 </div>
 
-<!-- Wrapper div for all badges -->
-<div style="display: flex; gap: 10px;">
-    <!-- Badge 1 -->
-    <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="b482fc15-7607-4b9c-ab9f-8583d4e226d3" data-share-badge-host="https://www.credly.com"></div>
-
-    <!-- Badge 2 -->
-    <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="2092457b-e22f-4700-b15b-c3ae2614f529" data-share-badge-host="https://www.credly.com"></div>
-
-    <!-- Badge 3 -->
-    <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="dca2db92-f4dd-4bdd-a305-5ce9a3ad70ca" data-share-badge-host="https://www.credly.com"></div>
-</div>
-
-<!-- Embed script -->
-<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 <img src="https://github.com/cyberfantics/cyberfantics/blob/cyberfantics/assets/2nd%20arrow.gif"/>
 
