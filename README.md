@@ -113,11 +113,20 @@
   <a href="https://www.credly.com/badges/2092457b-e22f-4700-b15b-c3ae2614f529/public_url" target="_blank">
     <img src="./assets/badges/googleAIEssentials.png" alt="Google AI Essentials Certificate" width="200"/>
   </a>  
+</p>
+<p>
+  <a href="https://www.credly.com/badges/54bc8a72-add5-4594-b1a4-af69c975c7dc/public_url" target="_blank">
+    <img src="./assets/badges/introductionToCybersecurity.png" alt="Introduction to Cyber Security" width="200"/>
+  </a>
+  
   <a href="https://www.credly.com/badges/a05979dc-2e03-47aa-8686-397318e0468d/public_url" target="_blank">
-    <img src="./assets/badges/networkAddressingAndBasicTroubleshooting.png" alt="Network Addressing And Basic Troubleshooting" width="200"/>
+    <img src="./assets/badges/networkAddressingAndBasicTroubleshooting.png" alt="Network Addressing And Basic Troubleshooting" width="150"/>
+  </a>
+  
+  <a href="https://www.credly.com/badges/8b6e07cc-c225-4435-91f9-b6131c69c471/public_url" target="_blank">
+    <img src="./assets/badges/computerHardwareBasics.png" alt="Computer Hardware Basics" width="150"/>
   </a>
 </p>
-
 <img src="./assets/arrow.gif"/>
 
 ## 🛠 Recent Workflows:
