@@ -103,7 +103,7 @@
 <img src="./assets/arrow.gif"/>
 
 ## 🏅 Badges:
-<p>
+<p  align='center'>
   <a href="https://www.credly.com/badges/dca2db92-f4dd-4bdd-a305-5ce9a3ad70ca/public_url" target="_blank">
     <img src="./assets/badges/googleCybersecurityCertificate.png" alt="Google Cybersecurity Certificate" width="200"/>
   </a>
@@ -114,17 +114,17 @@
     <img src="./assets/badges/googleAIEssentials.png" alt="Google AI Essentials Certificate" width="200"/>
   </a>  
 </p>
-<p>
+<p  align='center'>
   <a href="https://www.credly.com/badges/54bc8a72-add5-4594-b1a4-af69c975c7dc/public_url" target="_blank">
     <img src="./assets/badges/introductionToCybersecurity.png" alt="Introduction to Cyber Security" width="200"/>
   </a>
   
   <a href="https://www.credly.com/badges/a05979dc-2e03-47aa-8686-397318e0468d/public_url" target="_blank">
-    <img src="./assets/badges/networkAddressingAndBasicTroubleshooting.png" alt="Network Addressing And Basic Troubleshooting" width="150"/>
+    <img src="./assets/badges/networkAddressingAndBasicTroubleshooting.png" alt="Network Addressing And Basic Troubleshooting" width="200"/>
   </a>
   
   <a href="https://www.credly.com/badges/8b6e07cc-c225-4435-91f9-b6131c69c471/public_url" target="_blank">
-    <img src="./assets/badges/computerHardwareBasics.png" alt="Computer Hardware Basics" width="150"/>
+    <img src="./assets/badges/computerHardwareBasics.png" alt="Computer Hardware Basics" width="200"/>
   </a>
 </p>
 <img src="./assets/arrow.gif"/>
