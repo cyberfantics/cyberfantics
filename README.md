@@ -1,12 +1,20 @@
 <!-- Banner Image -->
 ![Welcome Banner](./assets/banner.png)
 
-<img src="./assets/arrow.gif"/>
+<p align="center">
+  <img src="./assets/arrow.gif" alt="Arrow"/>
+</p>
 
-| ![Typing](https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=500&size=25&duration=4000&pause=500&color=32CD32&center=false&vCenter=true&width=700&height=55&lines=👋+Hey%2C+I'm+Syed+Mansoor+ul+Hassan+Bukhari;💻+Passionate+Developer+in;🧠+AI%2C+Cybersecurity+%26+Machine+Learning;🎓+Certified+in+AI%2C+Machine+Learning+%26+Deep+Learning;🏆+from+NAVTTC;🔧+Creating+Innovative+Solutions;🌍+to+Real-World+Problems;🤝+Let's+Connect+and+Collaborate+!) | ![coding](https://media.giphy.com/media/hv13U4h8Y7hEdCQ0Ik/giphy.gif) |
-|:--:|:--:|
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=500&size=25&duration=4000&pause=500&color=32CD32&center=false&vCenter=true&width=700&height=55&lines=👋+Hey%2C+I'm+Syed+Mansoor+ul+Hassan+Bukhari;💻+Passionate+Developer+in;🧠+AI%2C+Cybersecurity+%26+Machine+Learning;🎓+Certified+in+AI%2C+Machine+Learning+%26+Deep+Learning;🏆+from+NAVTTC;🔧+Creating+Innovative+Solutions;🌍+to+Real-World+Problems;🤝+Let's+Connect+and+Collaborate+!" alt="Typing"/>
+  <br/>
+  <img src="https://media.giphy.com/media/hv13U4h8Y7hEdCQ0Ik/giphy.gif" alt="Coding"/>
+</p>
 
-<img src="./assets/arrow.gif"/>
+<p align="center">
+  <img src="./assets/arrow.gif" alt="Arrow"/>
+</p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyberfantics&abbreviated=true&base=1957800&style=for-the-badge" alt="profile views" /> </p>
 
@@ -75,7 +83,7 @@
     <img width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=cyberfantics&count_private=true&show_icons=true&theme=radical&border_radius=10&background=1F2937&icon_color=3B82F6&title_color=10B981&text_color=9CA3AF" alt="c2-tlhah stats"/>
 </div>
 
-<img src="https://github.com/c2-tlhah/c2-tlhah/blob/main/2nd_arrow.gif">
+<img src="./assets/arrow.gif">
 
 ## 🛠️ Contribution Activity
 
@@ -86,7 +94,7 @@
 </div>
 
 
-<img src="https://github.com/c2-tlhah/c2-tlhah/blob/main/2nd_arrow.gif">
+<img src="./assets/arrow.gif">
 
 ## 🏆 Trophies
 
