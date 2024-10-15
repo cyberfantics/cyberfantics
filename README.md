@@ -43,21 +43,6 @@
 
 <img src="./assets/arrow.gif"/>
 
-## Badges:
-<p align="center">
-  <a href="https://www.credly.com/badges/dca2db92-f4dd-4bdd-a305-5ce9a3ad70ca/public_url" target="_blank">
-    <img src="./assets/badges/googleCybersecurityCertificate.png" alt="Google Cybersecurity Certificate" width="150"/>
-  </a>
-  <a href="https://www.credly.com/badges/b482fc15-7607-4b9c-ab9f-8583d4e226d3/public_url" target="_blank">
-    <img src="./assets/badges/googleItSupport.png" alt="Google IT Support Certificate" width="150"/>
-  </a>
-  <a href="https://www.credly.com/badges/2092457b-e22f-4700-b15b-c3ae2614f529/public_url" target="_blank">
-    <img src="./assets/badges/googleAIEssentials.png" alt="Google AI Essentials Certificate" width="150"/>
-  </a>
-</p>
-
-<img src="./assets/arrow.gif"/>
-
 ## 💼 Featured Projects & Contributions:
 
 ### 🔒 **Cybersecurity Projects**:
@@ -114,6 +99,21 @@
 ## 🏆 Trophies
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=cyberfantics&theme=radical&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+<img src="./assets/arrow.gif"/>
+
+## 🏅 Badges:
+<p align="center">
+  <a href="https://www.credly.com/badges/dca2db92-f4dd-4bdd-a305-5ce9a3ad70ca/public_url" target="_blank">
+    <img src="./assets/badges/googleCybersecurityCertificate.png" alt="Google Cybersecurity Certificate" width="150"/>
+  </a>
+  <a href="https://www.credly.com/badges/b482fc15-7607-4b9c-ab9f-8583d4e226d3/public_url" target="_blank">
+    <img src="./assets/badges/googleItSupport.png" alt="Google IT Support Certificate" width="150"/>
+  </a>
+  <a href="https://www.credly.com/badges/2092457b-e22f-4700-b15b-c3ae2614f529/public_url" target="_blank">
+    <img src="./assets/badges/googleAIEssentials.png" alt="Google AI Essentials Certificate" width="150"/>
+  </a>
+</p>
 
 <img src="./assets/arrow.gif"/>
 
