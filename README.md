@@ -103,6 +103,7 @@
 <img src="./assets/arrow.gif"/>
 
 ## 🏅 Badges:
+<!--First Row-->
 <p  align='center'>
   <a href="https://www.credly.com/badges/dca2db92-f4dd-4bdd-a305-5ce9a3ad70ca/public_url" target="_blank">
     <img src="./assets/badges/googleCybersecurityCertificate.png" alt="Google Cybersecurity Certificate" width="200"/>
@@ -114,6 +115,7 @@
     <img src="./assets/badges/googleAIEssentials.png" alt="Google AI Essentials Certificate" width="200"/>
   </a>  
 </p>
+<!-- Second Row-->
 <p  align='center'>
   <a href="https://www.credly.com/badges/54bc8a72-add5-4594-b1a4-af69c975c7dc/public_url" target="_blank">
     <img src="./assets/badges/introductionToCybersecurity.png" alt="Introduction to Cyber Security" width="200"/>
@@ -125,6 +127,12 @@
   
   <a href="https://www.credly.com/badges/8b6e07cc-c225-4435-91f9-b6131c69c471/public_url" target="_blank">
     <img src="./assets/badges/computerHardwareBasics.png" alt="Computer Hardware Basics" width="200"/>
+  </a>
+</p>
+<!-- Third Row -->
+<p  align='center'>
+  <a href="https://drive.google.com/file/d/1ZYljhsqaiTb6PWG8GQvGV9XM28cZmlGg/view?usp=sharing" target="_blank">
+    <img src="./assets/badges/aiAssociate.png" alt="Salesforce AI Associate Certification" width="200"/>
   </a>
 </p>
 <img src="./assets/arrow.gif"/>
