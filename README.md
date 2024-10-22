@@ -1,6 +1,7 @@
 <!-- Banner Image -->
 ![Welcome Banner](./assets/banner.png)
 
+<!-- Arrow -->
 <p align="center">
   <img src="./assets/arrow.gif" alt="Arrow"/>
 </p>
