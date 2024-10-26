@@ -182,3 +182,5 @@
 ⚡ **Fun Fact**: I have a knack for solving **challenging CTF puzzles**!
 
 <img src="./assets/arrow.gif"/>
+
+[![An image of @cyberfantics's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/cyberfantics)](https://holopin.io/@cyberfantics)
