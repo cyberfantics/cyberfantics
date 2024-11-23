@@ -149,7 +149,7 @@
 ## 🤝 Get in Touch:
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/mansoor-bukhari-77549a264/">
+  <a href="https://www.linkedin.com/in/mansoor-bukhari/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-blue?style=for-the-badge&logo=linkedin">
   </a>
   <a href="mailto:digital.creator380@gmail.com">
