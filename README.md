@@ -12,6 +12,7 @@
     <img src = "https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/star.gif" width = 35px height = 35px>
 </a>
 </h1>
+
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=cyberfantics&data=followers,repositories,stars,commits&theme=dark)](https://www.linkedin.com/in/mansoor-bukhari/)
 
 <p align="center">
