@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-![Welcome Banner](./assets/banner.png)
+<a href="#"><img align="left" alt="React" width="100%" style="padding-right:10px;" src="https://capsule-render.vercel.app/api?type=shark&height=238&color=gradient&text=Mansoor%20Bukhari&section=footer&reversal=false&textBg=false&fontColor=FF0000&animation=blink&descAlign=58&stroke=000000&strokeWidth=3&fontSize=92&fontAlignY=74" /></a><br>
 
 <!-- Arrow -->
 <p align="center">
