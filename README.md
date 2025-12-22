@@ -1,6 +1,3 @@
-<!-- Banner Image -->
-<a href="#"><img align="left" alt="React" width="100%" style="padding-right:10px;" src="https://capsule-render.vercel.app/api?type=shark&height=238&color=gradient&text=Mansoor%20Bukhari&section=footer&reversal=false&textBg=false&fontColor=FF0000&animation=blink&descAlign=58&stroke=000000&strokeWidth=3&fontSize=92&fontAlignY=74" /></a><br>
-
 <!-- Arrow -->
 <p align="center">
   <img src="./assets/arrow.gif" alt="Arrow"/>
@@ -21,55 +18,68 @@
 </p>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cyberfantics&abbreviated=true&base=1957800&style=for-the-badge" alt="profile views" /> </p>
+<p>I am an AI graduate with a passion for building intelligent systems using <strong>Artificial Intelligence</strong>, <strong>Machine Learning</strong>, <strong>Generative AI</strong>, and <strong>Computer Vision</strong>. I enjoy creating projects that solve real-world problems through innovative AI solutions and automation tools.</p>
 
-<img src="./assets/arrow.gif"/>
+<p align="center">
+  <img src="./assets/arrow.gif" alt="Arrow"/>
+</p>
 
-<p align="left">I’m a passionate developer specializing in <strong>Artificial Intelligence</strong> and <strong>Cyber Security</strong>. I enjoy leveraging cutting-edge technologies to solve complex problems and am constantly looking to expand my knowledge and skills in AI, cybersecurity, and machine learning.</p>
+## 📥 Download My CV:
 
-<img src="./assets/arrow.gif"/>
+<div align="center">
+  <a href="./assets/CV.pdf" download="CV.pdf">
+    <img src="https://img.shields.io/badge/Download%20CV-Click%20Here-brightgreen?style=for-the-badge&logo=github">
+  </a>
+</div>
 
-## 🌱 Current Focus:
-- **Artificial Intelligence**: Developing advanced AI models aimed at automating processes and providing actionable predictive insights.
-- **Cybersecurity**: Crafting innovative, AI-powered solutions to enhance security protocols and safeguard data.
-- **Data Science**: Analyzing large datasets to extract valuable trends and actionable insights, driving data-informed decision-making.
-- **Computer Vision**: Specializing in OpenCV and PyTorch for building intelligent systems that interpret and understand visual data.
+<p align="center">
+  <img src="./assets/arrow.gif" alt="Arrow"/>
+</p>
 
-<img src="./assets/arrow.gif"/>
+## 🌱 Current Focus
+- **Artificial Intelligence & Machine Learning**: Developing advanced models for automation, prediction, and intelligent decision-making.  
+- **Generative AI**: Building AI systems capable of content generation, document processing, and creative solutions.  
+- **Computer Vision**: Using OpenCV and PyTorch to develop gesture recognition, document digitization, and visual data interpretation systems.  
+- **Flutter & App Development**: Creating cross-platform applications with robust UI/UX and AI integration.  
 
-## 📜 Certifications & Achievements:
-- **Infosec Python for Cybersecurity Specialization**  
-  - Topics: Active Defense, Credential Access, Digital Forensics.
-  
-- **EC-Council Cybersecurity Attack & Defense Fundamentals Specialization**  
-  - Covered Ethical Hacking, Network Defense, and Digital Forensics.
-  
-- **Capture The Flag (CTF) Participant**  
-  - Solved cryptography, forensics, reverse engineering, and web exploitation challenges.
+<p align="center">
+  <img src="./assets/arrow.gif" alt="Arrow"/>
+</p>
 
-<img src="./assets/arrow.gif"/>
+## 📜 Certifications & Achievements
+- **Google AI Essentials Certificate** – Core AI concepts, ML basics, and practical applications of AI.  
+- **Machine Learning Specialization (Coursera)** – Comprehensive study of machine learning algorithms, model building, and predictive analytics.  
+- **Google IT Support Certificate** – Foundations of IT support, troubleshooting, and system administration.  
+- **Google Cybersecurity Certificate** – Basics of cybersecurity, threat management, and digital defense.  
+- **Introduction to Cybersecurity** – Basic principles of cybersecurity and safe online practices.  
+- **Network Addressing & Basic Troubleshooting** – Understanding network fundamentals and troubleshooting techniques.  
+- **Computer Hardware Basics** – Foundational knowledge of computer hardware components.  
+- **Salesforce AI Associate Certification** – Applied AI in Salesforce environment, automation, and predictive analytics.  
+- **CTF Participation** – Solved challenges in cryptography, reverse engineering, forensic analysis, and web exploitation.
+
+<p align="center">
+  <img src="./assets/arrow.gif" alt="Arrow"/>
+</p>
 
 ## 💼 Featured Projects & Contributions
 
-Here are some of my standout projects and contributions that showcase my skills in AI, Python development, cybersecurity, and more:
+### 1. [**Examico**](#)
+An AI-powered handwritten exam paper digitizer that converts handwritten papers into structured digital documents. Features include OCR text extraction, automated formatting, multilingual support, and smart handling of math equations. (Repository will be available soon.)
 
-### 1. [**picPDF-Maker**](https://github.com/cyberfantics/picPDF-Maker)
-A Python utility that converts image files into PDF format. This project is perfect for creating digital albums, presentations, and document compilations by merging images into one unified PDF.
+### 2. [**picPDF-Maker**](https://github.com/cyberfantics/picPDF-Maker)  
+Python utility to convert images into PDFs, ideal for digital albums, presentations, and document compilations.
 
-### 2. [**Form Digitization**](https://github.com/cyberfantics/form_digitilization)
-A real-time form digitization tool utilizing OpenCV and Gemini 1.5 Flash API for text extraction. The application features hand gesture recognition for form selection, dynamic data display, and customizable UI elements.
+### 3. [**Form Digitization**](https://github.com/cyberfantics/form_digitilization)  
+Real-time form digitization tool using OpenCV and Gemini 1.5 Flash API, with hand gesture recognition for form selection and dynamic data display.
 
-### 3. [**Crypto Bot**](https://github.com/cyberfantics/cryptobot)
-A Telegram bot that tracks real-time cryptocurrency prices and supports multi-currency options. It includes commands for converting cryptocurrencies, setting price alerts, and viewing the top 100 trending coins.
+### 4. [**Crypto Bot**](https://github.com/cyberfantics/cryptobot)  
+Telegram bot tracking cryptocurrency prices, supporting multi-currency conversion, price alerts, and trending coins.
 
-### 4. [**Rock-Paper-Vision**](https://github.com/cyberfantics/Rock-Paper-Vision)
-An AI-powered Rock, Paper, Scissors game using computer vision to recognize hand gestures. This project integrates machine learning to enhance user interaction with a real-time gesture recognition system.
+### 5. [**Rock-Paper-Vision**](https://github.com/cyberfantics/Rock-Paper-Vision)  
+AI-powered Rock, Paper, Scissors game with real-time hand gesture recognition, integrating machine learning for enhanced interaction.
 
-### 5. [**Jupyter-to-PDF-Processor**](https://github.com/cyberfantics/jupyter-to-pdf-processor)
-A Python-based solution for converting Jupyter Notebooks into PDF files while adding borders and page numbers. It streamlines the process for users who need to export their notebooks professionally.
-
-Feel free to explore these projects, and check out my repositories for more tools, utilities, and contributions. Contributions are always welcome, so feel free to fork the repos and submit pull requests!
-
+### 6. [**Jupyter-to-PDF-Processor**](https://github.com/cyberfantics/jupyter-to-pdf-processor)  
+Python tool to convert Jupyter Notebooks into PDFs with borders and page numbers, streamlining professional notebook exports.
 
 <img src="./assets/arrow.gif"/>
 
@@ -212,14 +222,6 @@ Feel free to explore these projects, and check out my repositories for more tool
     <td align="center" width="90">
     </td>
 </table>
-
-## 📥 Download My CV:
-
-<div align="center">
-  <a href="./assets/CV.pdf" download="CV.pdf">
-    <img src="https://img.shields.io/badge/Download%20CV-Click%20Here-brightgreen?style=for-the-badge&logo=github">
-  </a>
-</div>
 
 <img src="./assets/arrow.gif"/>
 
