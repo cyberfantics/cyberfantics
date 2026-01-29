@@ -27,7 +27,7 @@
 ## 📥 Download My CV:
 
 <div align="center">
-  <a href="./assets/CV.pdf" download="CV.pdf">
+  <a href="https://drive.google.com/file/d/1bG3Q7oySdVZbf_P-JMBG9MEyAC1TUTPM/view?usp=sharing" download="CV.pdf">
     <img src="https://img.shields.io/badge/Download%20CV-Click%20Here-brightgreen?style=for-the-badge&logo=github">
   </a>
 </div>
