@@ -1,334 +1,183 @@
-<!-- Arrow -->
-<p align="center">
-  <img src="./assets/arrow.gif" alt="Arrow"/>
-</p>
-
-<h1>
- About Me 
-<a href="#--about-me--">
-    <img src = "https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/star.gif" width = 35px height = 35px>
-</a>
-</h1>
-
-
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=cyberfantics&data=followers,repositories,stars,commits&theme=dark)](https://www.linkedin.com/in/mansoor-bukhari/)
-
-<p align="center">
-  <img src="./assets/arrow.gif" alt="Arrow"/>
-</p>
-
-
-<p>I am an AI graduate with a passion for building intelligent systems using <strong>Artificial Intelligence</strong>, <strong>Machine Learning</strong>, <strong>Generative AI</strong>, and <strong>Computer Vision</strong>. I enjoy creating projects that solve real-world problems through innovative AI solutions and automation tools.</p>
-
-<p align="center">
-  <img src="./assets/arrow.gif" alt="Arrow"/>
-</p>
-
-## 📥 Download My CV:
-
 <div align="center">
-  <a href="https://drive.google.com/file/d/1bG3Q7oySdVZbf_P-JMBG9MEyAC1TUTPM/view?usp=sharing" download="CV.pdf">
-    <img src="https://img.shields.io/badge/Download%20CV-Click%20Here-brightgreen?style=for-the-badge&logo=github">
-  </a>
+
+# Hi, I'm Mansoor Bukhari 👋
+
+### Python & Flutter Developer | AI / Machine Learning Graduate
+
+I build intelligent mobile applications, Python automation systems, computer-vision solutions, and practical machine-learning projects.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/mansoor-bukhari/)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:digital.creator380@gmail.com)
+[![CV](https://img.shields.io/badge/CV-View%20Resume-22C55E?style=for-the-badge\&logo=readme\&logoColor=white)](https://drive.google.com/file/d/1bG3Q7oySdVZbf_P-JMBG9MEyAC1TUTPM/view?usp=sharing)
+
+![Profile Views](https://komarev.com/ghpvc/?username=cyberfantics\&style=flat-square\&label=Profile+Views)
+
 </div>
 
-<p align="center">
-  <img src="./assets/arrow.gif" alt="Arrow"/>
-</p>
+---
 
-## 🌱 Current Focus
-- **Artificial Intelligence & Machine Learning**: Developing advanced models for automation, prediction, and intelligent decision-making.  
-- **Generative AI**: Building AI systems capable of content generation, document processing, and creative solutions.  
-- **Computer Vision**: Using OpenCV and PyTorch to develop gesture recognition, document digitization, and visual data interpretation systems.  
-- **Flutter & App Development**: Creating cross-platform applications with robust UI/UX and AI integration.  
+## About Me
 
-<p align="center">
-  <img src="./assets/arrow.gif" alt="Arrow"/>
-</p>
+* 🎓 Bachelor of Science in Artificial Intelligence from the University of Azad Jammu & Kashmir.
+* 💻 Building applications with **Python, Flutter, Dart, Firebase, REST APIs, and SQL**.
+* 🤖 Interested in **machine learning, reinforcement learning, computer vision, OCR, and intelligent automation**.
+* 🧩 Experienced in converting ideas and requirements into working applications, scripts, and prototypes.
+* 🌍 Open to **Junior Python Developer, Flutter Developer, Backend Developer, AI/ML Engineer, and Software Engineering** opportunities.
 
-## 📜 Certifications & Achievements
-- **Google AI Essentials Certificate** – Core AI concepts, ML basics, and practical applications of AI.  
-- **Machine Learning Specialization (Coursera)** – Comprehensive study of machine learning algorithms, model building, and predictive analytics.  
-- **Google IT Support Certificate** – Foundations of IT support, troubleshooting, and system administration.  
-- **Google Cybersecurity Certificate** – Basics of cybersecurity, threat management, and digital defense.  
-- **Introduction to Cybersecurity** – Basic principles of cybersecurity and safe online practices.  
-- **Network Addressing & Basic Troubleshooting** – Understanding network fundamentals and troubleshooting techniques.  
-- **Computer Hardware Basics** – Foundational knowledge of computer hardware components.  
-- **Salesforce AI Associate Certification** – Applied AI in Salesforce environment, automation, and predictive analytics.  
-- **CTF Participation** – Solved challenges in cryptography, reverse engineering, forensic analysis, and web exploitation.
+---
 
-<p align="center">
-  <img src="./assets/arrow.gif" alt="Arrow"/>
-</p>
+## Featured Projects
 
-## 💼 Featured Projects & Contributions
+### 📈 [TradeMind AI](https://github.com/cyberfantics/trademind-ai)
 
-### 1. [**Examico**](#)
-An AI-powered handwritten exam paper digitizer that converts handwritten papers into structured digital documents. Features include OCR text extraction, automated formatting, multilingual support, and smart handling of math equations. (Repository will be available soon.)
+A full-stack trading assistant project combining a **Flutter/Firebase mobile application** with a **Python signal and automation engine**.
 
-### 2. [**picPDF-Maker**](https://github.com/cyberfantics/picPDF-Maker)  
-Python utility to convert images into PDFs, ideal for digital albums, presentations, and document compilations.
+* Displays and filters live, active, and closed trade signals.
+* Tracks entry levels, stop loss, take-profit targets, and trade outcomes.
+* Includes Firebase authentication, trading journals, saved AI conversations, and an AI trading coach.
+* Supports sharing signals and AI responses as text, images, and PDFs.
+* Uses a Python engine for technical indicators, recent-candle backtesting, Discord alerts, SQLite storage, risk controls, and Bybit demo-trading integration.
 
-### 3. [**Form Digitization**](https://github.com/cyberfantics/form_digitilization)  
-Real-time form digitization tool using OpenCV and Gemini 1.5 Flash API, with hand gesture recognition for form selection and dynamic data display.
+**Technologies:** Flutter, Dart, Firebase, Python, Gemini API, REST APIs, SQLite, Pandas, NumPy, Bybit API
 
-### 4. [**Crypto Bot**](https://github.com/cyberfantics/cryptobot)  
-Telegram bot tracking cryptocurrency prices, supporting multi-currency conversion, price alerts, and trending coins.
+> The Flutter application and Python engine are being organized for publication in the repository.
 
-### 5. [**Rock-Paper-Vision**](https://github.com/cyberfantics/Rock-Paper-Vision)  
-AI-powered Rock, Paper, Scissors game with real-time hand gesture recognition, integrating machine learning for enhanced interaction.
+### 🐦 [Chubby Bird — DQN Agent](https://github.com/cyberfantics/chubby-bird-agent)
 
-### 6. [**Jupyter-to-PDF-Processor**](https://github.com/cyberfantics/jupyter-to-pdf-processor)  
-Python tool to convert Jupyter Notebooks into PDFs with borders and page numbers, streamlining professional notebook exports.
+A custom reinforcement-learning environment where a **Deep Q-Network agent** learns to control a bird, collect targets, and avoid penalties.
 
-<img src="./assets/arrow.gif"/>
+* Created the game environment and training pipeline with Python and Pygame.
+* Implemented experience replay, target-network updates, epsilon-greedy exploration, reward shaping, and gradient clipping.
+* Added manual play, trained-agent demonstration, and human-versus-AI modes.
 
-<h1> My Skill Sets <a href="#-my-skill-sets--"><img src = "https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/skill.gif" width = 32px></a> </h1>
+**Technologies:** Python, PyTorch, Pygame, Reinforcement Learning, Deep Q-Networks
 
-### Languages
-<table>
-    <td align="center" width="90">
-        <a href="https://www.java.com/" target="_blank"><img alt="Java" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/java.svg" /></a>
-        <br><h4>Java</h4>
-    </td>
-    <td align="center" width="90">
-        <a href="https://www.w3schools.com/js/" target="_blank"><img alt="JavaScript" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/javascript.svg" /></a>
-        <br><h4>JavaScript</h4>
-    </td>
-    <td align="center" width="90">
-        <a href="https://www.typescriptlang.org/" target="_blank"><img alt="TypeScript" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/typescript.svg" /></a>
-        <br><h4>TypeScript</h4>
-    </td>
-    <td align="center" width="90">
-        <a href="https://www.php.net/" target="_blank"><img alt="PHP" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/php.svg" /></a>
-        <br><h4>PHP</h4>
-    </td>
-    <td align="center" width="90">
-        <a href="https://www.python.org/" target="_blank"><img alt="Python" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/python.svg" /></a>
-        <br><h4>Python</h4>
-    </td>
-    <td align="center" width="90">
-        <a href="https://isocpp.org/" target="_blank"><img alt="C++" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/c++.svg" /></a>
-        <br><h4>C++</h4>
-    </td>
-</table>
+### 📝 Examico — AI-Powered Exam Digitization
 
-### Libraries
-<table>
-    <td align="center" width="90">
-        <a href="https://react.dev/" target="_blank"><img alt="React width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/libraries/react.svg" /></a>
-        <br><h4>React</h4>
-    </td>
-    <td align="center" width="90">
-        <a href="https://jquery.com/" target="_blank"><img alt="jQuery" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/libraries/jquery.svg" /></a>
-        <br><h4>jQuery</h4>
-    </td>
-    <td align="center" width="90">
-        <a href="https://redux.js.org/" target="_blank"><img alt="Redux" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/libraries/redux.svg" /></a>
-        <br><h4>Redux</h4>
-    </td>
-    <td align="center" width="90">
-        <a href="https://nodejs.org/en" target="_blank"><img alt="Node.js" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/libraries/node.js.gif" /></a>
-        <br><h4>Node.js</h4>
-    </td>
-    <td align="center" width="90">
-        <a href="https://www.chaijs.com/" target="_blank"><img alt="Chai" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/chai.svg" /></a>
-        <br><h4>Chai</h4>
-    </td>
-    <td align="center" width="90">
-    </td>
-    <td align="center" width="90">
-    </td>
-    <td align="center" width="90">
-    </td>
-</table>
+A university final-year project designed to transform handwritten exam papers into structured digital documents.
 
-### Frameworks
-<table>
-    <td align="center" width="90">
-        <a href="https://nextjs.org/" target="_blank"><img alt="Next.js" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/nextjs.svg" /></a>
-        <br><h4>Next.js</h4>
-    </td>
-    <td align="center" width="90">
-        <a href="https://tailwindcss.com/" target="_blank"><img alt="Tailwind CSS" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/tailwindcss.svg" /></a>
-        <br><h4>Tailwind CSS</h4>
-    </td>
-    <td align="center" width="90">
-        <a href="https://angular.dev/" target="_blank"><img alt="Angular" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/angular.gif" /></a>
-        <br><h4>Angular</h4>
-    </td>
-    <td align="center" width="90">
-        <a href="https://vuejs.org/" target="_blank"><img alt="Vue" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/vue.gif" /></a>
-        <br><h4>Vue</h4>
-    </td>
-    <td align="center" width="90">
-        <a href="https://www.djangoproject.com/" target="_blank"><img alt="Django" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/django.svg" /></a>
-        <br><h4>Django</h4>
-    </td>
-    <td align="center" width="90">
-        <a href="https://mochajs.org/" target="_blank"><img alt="Mocha" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/mocha.png" /></a>
-        <br><h4>Mocha</h4>
-    </td>
-    <td align="center" width="90">
-        <a href="https://jestjs.io/" target="_blank"><img alt="Jest" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/jest.jpg" /></a>
-        <br><h4>Jest</h4>
-    </td>
-    <td align="center" width="90">
-    </td>
-</table>
+* Built OCR and image-preprocessing workflows for text extraction and layout handling.
+* Designed automated document-formatting and export processes.
+* Worked on multilingual content and mathematical-equation handling.
 
-### Database
-<table>
-    <td align="center" width="90">
-        <a href="https://www.postgresql.org/" target="_blank"><img alt="PostgreSQL" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/databases/postgres.svg" /></a>
-        <br><h4>PostgreSQL</h4>
-    </td>
-    <td align="center" width="90">
-        <a href="https://www.mysql.com/" target="_blank"><img alt="MySQL" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/databases/mysql.svg" /></a>
-        <br><h4>MySQL</h4>
-    </td>
-    <td align="center" width="90">
-        <a href="https://cassandra.apache.org/_/index.html" target="_blank"><img alt="Cassandra" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/databases/cassandra.jpeg" /></a>
-        <br><h4>Cassandra</h4>
-    </td>
-    <td align="center" width="90">
-        <a href="https://www.oracle.com/" target="_blank"><img alt="Oracle" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/databases/oracle.png"/></a>
-        <br><h4>Oracle</h4>
-    </td>
-    <td align="center" width="90">
-        <a href="https://www.mongodb.com/" target="_blank"><img alt="MongoDB" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/databases/mongoDB.gif" /></a>
-        <br><h4>MongoDB</h4>
-    </td>
-    <td align="center" width="90">
-    </td>
-    <td align="center" width="90">
-    </td>
-    <td align="center" width="90">
-    </td>
-</table>
+**Technologies:** Python, OCR, OpenCV, Image Processing, Document Automation
 
-### Tools
-<table>
-    <td align="center" width="90">
-        <a href="https://github.com/" target="_blank"><img alt="Git" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/Github.svg" /></a>
-        <br><h4>Git</h4>
-    </td>
-    <td align="center" width="90">
-        <a href="https://aws.amazon.com/" target="_blank"><img alt="AWS" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/aws.svg" /></a>
-        <br><h4>AWS</h4>
-    </td>
-    <td align="center" width="90">
-    </td>
-    <td align="center" width="90">
-    </td>
-</table>
+> Repository and technical documentation will be published soon.
 
-<img src="./assets/arrow.gif"/>
+### 👋 [Form Digitization](https://github.com/cyberfantics/form_digitilization)
 
-## 📊 GitHub Stats
+A computer-vision application for extracting and displaying form information from live video.
+
+* Uses hand gestures for interactive form selection.
+* Combines OpenCV processing with Gemini API-based text interpretation.
+* Displays extracted information through a real-time interface.
+
+**Technologies:** Python, OpenCV, Computer Vision, Gemini API
+
+### 📄 [Jupyter-to-PDF Processor](https://github.com/cyberfantics/jupyter-to-pdf-processor)
+
+A Python automation utility for converting Jupyter notebooks into polished PDF documents.
+
+* Automates notebook conversion with Selenium.
+* Adds configurable borders, headers, footers, and page numbers.
+* Organizes generated files into a structured output workflow.
+
+**Technologies:** Python, Selenium, PyPDF2, ReportLab
+
+### 🖼️ [picPDF Maker](https://github.com/cyberfantics/picPDF-Maker)
+
+A web application that converts images into customizable PDF documents with page-size, orientation, margin, and appearance controls.
+
+**Technologies:** Python, PDF Processing, Web Development
+
+---
+
+## Technical Skills
+
+### Core Development
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square\&logo=dart\&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square\&logo=flutter\&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square\&logo=firebase\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-005571?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
+
+### AI, Machine Learning & Data
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square\&logo=pytorch\&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square\&logo=tensorflow\&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square\&logo=scikitlearn\&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square\&logo=opencv\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square\&logo=numpy\&logoColor=white)
+
+* Machine learning fundamentals and model evaluation
+* Deep learning and reinforcement learning
+* Computer vision and OCR pipelines
+* Exploratory data analysis and time-series workflows
+* Prompt design and AI API integration
+
+### Tools & Automation
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square\&logo=sqlite\&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square\&logo=selenium\&logoColor=white)
+
+* Python scripting, automation, debugging, and refactoring
+* API integration, bots, file processing, and workflow automation
+* Git/GitHub, virtual environments, Linux, n8n, and Zapier
+
+---
+
+## Certifications
+
+* **Google AI Essentials**
+* **Machine Learning Specialization — Coursera**
+* **Artificial Intelligence: Machine Learning & Deep Learning — NAVTTC**
+* **Google IT Support Professional Certificate**
+* **Google Cybersecurity Professional Certificate**
+* **Salesforce AI Associate**
 
 <div align="center">
-    <img width="400" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=cyberfantics&count_private=true&theme=react&border_radius=10&background=1F2937&stroke=000000&ring=10B981&fire=F59E0B&currStreakLabel=E5E7EB&sideNums=10B981&currStreakNum=3B82F6&dates=9CA3AF&sideLabels=F3F4F6&theme=radical" alt="CyberFantics streak stats"/>
-    <img width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=cyberfantics&count_private=true&show_icons=true&theme=radical&border_radius=10&background=1F2937&icon_color=3B82F6&title_color=10B981&text_color=9CA3AF" alt="CyberFantics stats"/>
+
+[![Google Cybersecurity](./assets/badges/googleCybersecurityCertificate.png)](https://www.credly.com/badges/dca2db92-f4dd-4bdd-a305-5ce9a3ad70ca/public_url)
+[![Google IT Support](./assets/badges/googleItSupport.png)](https://www.credly.com/badges/b482fc15-7607-4b9c-ab9f-8583d4e226d3/public_url)
+[![Google AI Essentials](./assets/badges/googleAIEssentials.png)](https://www.credly.com/badges/2092457b-e22f-4700-b15b-c3ae2614f529/public_url)
+
 </div>
 
-<img src="./assets/arrow.gif">
+---
 
-## 🛠️ Contribution Activity
+## GitHub Activity
 
 <div align="center">
-    <img width="1000" height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cyberfantics&theme=vue&background=1F2937" alt="Contribution Activity"/>
-    <br/>
-    <img width="400" height="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=cyberfantics&show_icons=true&locale=en&layout=compact&theme=radical&border_radius=10&background=1F2937&title_color=10B981&text_color=9CA3AF" alt="Top Languages"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=cyberfantics&show_icons=true&theme=transparent&hide_border=true" alt="Mansoor's GitHub statistics" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyberfantics&layout=compact&theme=transparent&hide_border=true" alt="Most used languages" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=cyberfantics&theme=transparent&hide_border=true" alt="GitHub contribution streak" />
+
 </div>
 
+---
 
-<img src="./assets/arrow.gif">
-
-## 🏆 Trophies
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=cyberfantics&theme=radical&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-<img src="./assets/arrow.gif"/>
-
-## 🏅 Badges:
-<!--First Row-->
-<p  align='center'>
-  <a href="https://www.credly.com/badges/dca2db92-f4dd-4bdd-a305-5ce9a3ad70ca/public_url" target="_blank">
-    <img src="./assets/badges/googleCybersecurityCertificate.png" alt="Google Cybersecurity Certificate" width="200"/>
-  </a>
-  <a href="https://www.credly.com/badges/b482fc15-7607-4b9c-ab9f-8583d4e226d3/public_url" target="_blank">
-    <img src="./assets/badges/googleItSupport.png" alt="Google IT Support Certificate" width="200"/>
-  </a>
-  <a href="https://www.credly.com/badges/2092457b-e22f-4700-b15b-c3ae2614f529/public_url" target="_blank">
-    <img src="./assets/badges/googleAIEssentials.png" alt="Google AI Essentials Certificate" width="200"/>
-  </a>  
-</p>
-<!-- Second Row-->
-<p  align='center'>
-  <a href="https://www.credly.com/badges/54bc8a72-add5-4594-b1a4-af69c975c7dc/public_url" target="_blank">
-    <img src="./assets/badges/introductionToCybersecurity.png" alt="Introduction to Cyber Security" width="200"/>
-  </a>
-  
-  <a href="https://www.credly.com/badges/a05979dc-2e03-47aa-8686-397318e0468d/public_url" target="_blank">
-    <img src="./assets/badges/networkAddressingAndBasicTroubleshooting.png" alt="Network Addressing And Basic Troubleshooting" width="200"/>
-  </a>
-  
-  <a href="https://www.credly.com/badges/8b6e07cc-c225-4435-91f9-b6131c69c471/public_url" target="_blank">
-    <img src="./assets/badges/computerHardwareBasics.png" alt="Computer Hardware Basics" width="200"/>
-  </a>
-</p>
-<!-- Third Row -->
-<p  align='center'>
-  <a href="https://drive.google.com/file/d/1ZYljhsqaiTb6PWG8GQvGV9XM28cZmlGg/view?usp=sharing" target="_blank">
-    <img src="./assets/badges/aiAssociate.png" alt="Salesforce AI Associate Certification" width="200"/>
-  </a>
-</p>
-<img src="./assets/arrow.gif"/>
-
-## 🛠 Recent Workflows:
-- 🌐 Scraping Book Info from Amazon using BeautifulSoup
-- 📊 Visualizing Data Trends with Seaborn
-- 🛡️ Flask-based Web App for VirusTotal API Integration
-- 🔐 Developing AI-driven Cybersecurity Models
-
-<img src="./assets/arrow.gif"/>
-
-## 🤝 Get in Touch:
+## Connect With Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/mansoor-bukhari/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-blue?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="mailto:digital.creator380@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Send%20Me%20an%20Email-red?style=for-the-badge&logo=gmail">
-  </a>
-  <a href="https://www.kaggle.com/mansoorbukhari">
-    <img src="https://img.shields.io/badge/Kaggle-Check%20my%20Profile-green?style=for-the-badge&logo=kaggle">
-  </a>
-  <a href="https://www.facebook.com/mansoorbukhari860?mibextid=ZbWKwL">
-    <img src="https://img.shields.io/badge/Facebook-Follow%20me%20on%20Facebook-3b5998?style=for-the-badge&logo=facebook">
-  </a>
-  <a href="https://wa.me/923408100868">
-    <img src="https://img.shields.io/badge/WhatsApp-Chat%20with%20me-25D366?style=for-the-badge&logo=whatsapp">
-  </a>
-  <a href="https://www.hackerrank.com/profile/salfihacker">
-    <img src="https://img.shields.io/badge/HackerRank-Check%20my%20Profile-brightgreen?style=for-the-badge&logo=hackerrank">
-  </a>
-  <a href="https://leetcode.com/u/salfihacker/">
-    <img src="https://img.shields.io/badge/LeetCode-Check%20my%20Profile-yellow?style=for-the-badge&logo=leetcode">
-  </a>
-  <a href="https://instagram.com/cyberfantics">
-    <img src="https://img.shields.io/badge/Instagram-Follow%20me%20on%20Instagram-pink?style=for-the-badge&logo=instagram">
-  </a>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mansoor%20Bukhari-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/mansoor-bukhari/)
+[![Email](https://img.shields.io/badge/Email-digital.creator380%40gmail.com-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:digital.creator380@gmail.com)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge\&logo=kaggle\&logoColor=white)](https://www.kaggle.com/mansoorbukhari)
+
 </div>
 
+---
 
-<img src="./assets/arrow.gif"/>
+<div align="center">
 
-😄 **Pronouns**: He/Him  
-⚡ **Fun Fact**: I have a knack for solving **challenging CTF puzzles**!
+### Building practical software with Python, Flutter, and AI.
 
-<img src="./assets/arrow.gif"/>
-
-[![An image of @cyberfantics's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/cyberfantics)](https://holopin.io/@cyberfantics)
+</div>
