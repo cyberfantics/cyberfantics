@@ -45,7 +45,7 @@ Completed the Headstarter AI Software Engineering Fellowship, a project-based pr
 
 A Flutter app plus a Python signal and automation engine. It shows trade signals, a journal, PnL tracking, a Gemini AI chat coach, Bybit API integration, and Discord alerts. Paper-trading mode is the default. This is not live-trading advice, and no profit claims are made.
 
-Status, stated honestly: the Python engine is published in the repository as fixed version v7.7, with fee and slippage adjusted backtests, a kill switch, daily-loss halt, and a max open positions cap. The Flutter folder in that repository contains `lib/` Dart files only, with no `pubspec.yaml` or platform folders, so the app cannot be built from that repository alone yet.
+Status, stated honestly: the Python signal/automation engine is PRIVATE and is not published in this repository. A fixed v7.7 version of the engine (fee and slippage adjusted backtests, kill switch, daily-loss halt, and max open positions cap) has been prepared locally only and will not be uploaded unless the owner says otherwise. The Flutter app is described publicly in that repository, but that repository alone does not contain a complete runnable Flutter project (no `pubspec.yaml` or platform folders are claimed there), so the app cannot be built from that repository alone yet.
 
 Technologies: Flutter, Dart, Firebase, Python, Gemini API, REST APIs, SQLite, Pandas, NumPy, Bybit API.
 
