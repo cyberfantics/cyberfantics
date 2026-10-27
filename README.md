@@ -121,6 +121,25 @@ Technologies: Python, PDF Processing, Web Development.
 
 ---
 
+## Images
+
+Images already used in this profile README, verified in this repository
+or as shields, are the LinkedIn, Email, and Nassab badges at the top,
+and the certification badge images below (verified files in this
+repository's `assets/badges/` folder):
+
+![Google Cybersecurity](./assets/badges/googleCybersecurityCertificate.png)
+![Google IT Support](./assets/badges/googleItSupport.png)
+![Google AI Essentials](./assets/badges/googleAIEssentials.png)
+
+No project screenshots are included in this profile repository, and
+no screenshot files are linked here that do not exist. Project
+screenshots, when supplied, belong in the project repositories
+themselves (see the Images sections in the TradeMind and Nassab
+READMEs for the exact files needed), not as invented links here.
+
+---
+
 <div align="center">
 
 Building practical software with Python, Flutter, and AI.
